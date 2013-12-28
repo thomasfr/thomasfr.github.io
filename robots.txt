@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://thomasfr.github.io/sitemap.xml 
+Sitemap: http://www.fritzthomas.com/sitemap.xml 

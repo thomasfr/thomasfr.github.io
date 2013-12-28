@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://thomasfr.github.io/atom.xml" rel="self"/>
-  <link href="http://thomasfr.github.io/"/>
-  <updated>2013-12-28T19:49:45+01:00</updated>
-  <id>http://thomasfr.github.io/</id>
+  <title><![CDATA[Fritz Thomas]]></title>
+  <link href="http://www.fritzthomas.com/atom.xml" rel="self"/>
+  <link href="http://www.fritzthomas.com/"/>
+  <updated>2013-12-28T19:58:37+01:00</updated>
+  <id>http://www.fritzthomas.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Fritz Thomas]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Blog Post]]></title>
-    <link href="http://thomasfr.github.io/blog/2013/12/28/my-first-blog-post/"/>
+    <link href="http://www.fritzthomas.com/blog/2013/12/28/my-first-blog-post/"/>
     <updated>2013-12-28T19:44:43+01:00</updated>
-    <id>http://thomasfr.github.io/blog/2013/12/28/my-first-blog-post</id>
+    <id>http://www.fritzthomas.com/blog/2013/12/28/my-first-blog-post</id>
     <content type="html"><![CDATA[<h1>My first Blog Post since a very long time</h1>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
