@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Fritz Thomas]]></title>
-  <link href="http://www.fritzthomas.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Announcement | Fritz Thomas]]></title>
+  <link href="http://www.fritzthomas.com/blog/categories/announcement/atom.xml" rel="self"/>
   <link href="http://www.fritzthomas.com/"/>
   <updated>2013-12-28T20:03:02+01:00</updated>
   <id>http://www.fritzthomas.com/</id>
@@ -20,11 +20,13 @@
     <id>http://www.fritzthomas.com/blog/2013/12/28/my-first-blog-post</id>
     <content type="html"><![CDATA[<h2>since a very loooong time</h2>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>function foo() {
-</span><span class='line'>  }</span></code></pre></td></tr></table></div></figure>
+<p>```
+function foo() {</p>
 
+<pre><code>}
+</code></pre>
+
+<p>```</p>
 
 <ul>
 <li>first</li>
